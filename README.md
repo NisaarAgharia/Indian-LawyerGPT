@@ -3,7 +3,6 @@ Finetune Falcon-7b, We will leverage PEFT library from Hugging Face ecosystem, a
 # We will use Guacano DataSet to train the Falcon7B model
 
 
-![loss-falcon-7b](https://github.com/NisaarAgharia/Fine-Tuning-7B-With-QLORA/assets/22457544/c6919446-2394-4bf6-af65-b6adbd5d8381)
+![Training](https://github.com/NisaarAgharia/Fine-Tuning-Falcon-7B-LLM-Model/assets/22457544/60f1a52d-6e30-42b2-a0dd-d264ab97b97d)
 
-
-![Screenshot 2023-06-08 211647](https://github.com/NisaarAgharia/Fine-Tuning-7B-With-QLORA/assets/22457544/0d55b15d-0a48-42a6-aa52-97260ec98bf8)
+![Screenshot 2023-06-16 004036](https://github.com/NisaarAgharia/Fine-Tuning-Falcon-7B-LLM-Model/assets/22457544/ff584f7f-9961-48d4-8cb5-8f674563e163)
