@@ -1,4 +1,4 @@
-# Fine-Tuning Falcon-7B With QLoRA for Indian Law
+# Fine-Tuning Falcon-7B With QLoRA for Indian Law (WIP)
 
 This repository contains code and resources for fine-tuning the Falcon-7B model on Indian legal questions and answers dataset leveraging the PEFT library from the Hugging Face ecosystem and QLoRA for more memory-efficient fine-tuning.
 
