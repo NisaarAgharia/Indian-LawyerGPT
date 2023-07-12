@@ -1,0 +1,40 @@
+Headnotes:
+The case of A.K. Gopalan vs The State of Madras.Union of India dealt with the constitutionality of the Preventive Detention Act and its compliance with various provisions of the Indian Constitution. The court held that the Act, except for Section 14, was valid, and the detention of the petitioner was not illegal. However, Section 14 was declared unconstitutional as it violated the right to disclose grounds of detention and representation. The court also clarified the interpretation of Articles 19, 21, and 22 of the Constitution.
+
+Case Citation:
+A.K. Gopalan vs The State of Madras.Union of India, Supreme Court of India, May 19, 1950, Petition No. XIII of 1950
+
+Bench Details:
+Chief Justice H.J. Kania, Justices M. Patanjali Sastri, B.K. Mukherjea, S.R. Das, and N. Chandrasekhara Aiyar
+
+Legal proposition:
+The petitioner, A.K. Gopalan, was detained under the Preventive Detention Act and sought his release from detention, arguing that the Act violated several provisions of the Indian Constitution, including Articles 13, 19, 21, and 22.
+
+Case History:
+The petitioner, A.K. Gopalan, applied for a writ of habeas corpus and sought his release from detention under the Preventive Detention Act. The case was heard by the Supreme Court of India on May 19, 1950.
+
+Legal Issues/Questions Presented:
+1. Whether the Preventive Detention Act violated the provisions of the Indian Constitution, including Articles 13, 19, 21, and 22.
+2. Whether Section 14 of the Act, which prohibited a detained person from disclosing the grounds of detention or their representation against the detention order, was unconstitutional.
+
+Applicable Legal Provisions:
+1. Indian Constitution, Articles 13, 19, 21, and 22.
+2. Preventive Detention Act, 1950, Sections 12 and 14.
+
+Holding(s):
+The majority opinion held that the Preventive Detention Act, with the exception of Section 14, did not contravene any provisions of the Constitution. They concluded that even though Section 14 was unconstitutional as it violated Article 19(5), it could be severed from the rest of the Act, and the detention of the petitioner was not illegal. However, Justices Fazl Ali and Mahajan dissented, arguing that Section 12 of the Act was also unconstitutional as it contravened the provision in the Constitution that granted Parliament the power to enact the law. The Full Court unanimously held that Section 14 of the Preventive Detention Act contravened Article 19(5) of the Constitution and declared it to be ultra vires and void.
+
+Legal Reasoning/Rationale:
+The court held that Article 19, which guarantees certain fundamental rights, does not apply to laws relating to preventive detention. They further held that the concept of the right to move freely throughout the territory of India, as mentioned in Article 19(1)(d), is distinct from the right to personal liberty mentioned in Article 21. They emphasized that Article 19 should not be controlled by the provisions of Article 21. The court also examined the scope and applicability of Article 22, which deals with preventive detention. They concluded that Article 22 does not form a complete code of constitutional safeguards relating to preventive detention. They held that to the extent that provisions are made in Article 22, they cannot be controlled by Article 19(1), but on points of procedure not covered by Article 22, Article 19(1) would apply. The court also discussed the meaning of "law" and "procedure established by law" as mentioned in Article 21. They held that "law" refers to State-made law and not the principles of natural justice. They further held that "procedure established by law" refers to the ordinary well-established criminal procedure sanctioned by the Criminal Procedure Code.
+
+Rule of Law/Legal Principle Established or Applied:
+The court established that the Preventive Detention Act, except for Section 14, was valid and did not violate the provisions of the Indian Constitution. They also clarified the interpretation of Articles 19, 21, and 22 of the Constitution.
+
+Concurring and/or Dissenting Opinions:
+Justices Fazl Ali and Mahajan dissented, arguing that Section 12 of the Preventive Detention Act was also unconstitutional.
+
+Implications and Significance:
+The case clarified the interpretation of various articles of the Indian Constitution and established the validity of the Preventive Detention Act, except for Section 14. It also highlighted the distinction between the right to move freely throughout the territory of India and the right to personal liberty. The case has significant implications for the understanding of fundamental rights and preventive detention in India.
+
+Comments or Analysis:
+The case of A.K. Gopalan vs The State of Madras.Union of India is a landmark case that addressed the constitutionality of the Preventive Detention Act and its compliance with the Indian Constitution. The court's decision clarified the interpretation of various articles of the Constitution and established the validity of the Act, except for Section 14. The case has had a lasting impact on the understanding of fundamental rights and preventive detention in India. The court's reasoning and interpretation of the Constitution provide valuable insights into the balance between individual rights and state power in the context of preventive detention.
