@@ -1,0 +1,86 @@
+Here is a detailed report on the case Olga Tellis & Ors vs Bombay Municipal Corporation & Ors (1985):
+
+Case Citation: 
+Olga Tellis & Ors vs Bombay Municipal Corporation & Ors, AIR 1986 SC 180, (1985) 3 SCC 545
+
+Bench: 
+Chief Justice Y.V. Chandrachud, Justice Syed Murtaza Fazal Ali, Justice V.D. Tulzapurkar, Justice O. Chinnappa Reddy, Justice A. Varadarajan
+
+Headnotes 1: 
+Constitutional Law - Fundamental rights of pavement dwellers - Right to livelihood under Article 21 - Validity of eviction without notice
+
+Key Decision: Right to livelihood is part of right to life under Article 21. Eviction of pavement dwellers without notice violates Article 21. 
+
+Main Issue: Whether eviction of pavement dwellers without notice violates their fundamental right to livelihood under Article 21.
+
+Party Challenging Decision: Pavement dwellers of Bombay
+
+Key Legal Principle: Right to livelihood is integral part of right to life under Article 21. It cannot be deprived arbitrarily. 
+
+Specific Question of Law: If eviction of pavement dwellers without notice violates their fundamental right to livelihood under Article 21.
+
+Key Evidence: Expert studies showing pavement dwellers driven to cities by poverty and lack of rural jobs. Forcible eviction disrupts their livelihood.
+
+Headnotes 2:
+
+Constitutional Law – Eviction of pavement dwellers – Right to life – Invalidity of procedure – Petitioners challenged validity of evicting pavement dwellers without notice under S. 314 of Bombay Municipal Corporation Act as violating right to life under Art. 21. 
+
+Legal Proposition:
+In July 1981, the Government of Maharashtra decided to demolish all pavement and slum dwellings in Bombay and evict the dwellers. Some pavement dwellings were demolished pursuant to this decision. The evicted dwellers filed writ petitions under Article 32 of the Constitution, challenging the decision as violating their fundamental rights under Articles 19(1)(e), 19(1)(g) and 21. 
+
+The petitioners were pavement and slum dwellers who had migrated from rural areas to Bombay in search of livelihood. They submitted expert evidence showing lack of rural employment forcing migration to cities. Forcible eviction would deprive them of their livelihood and right to life under Article 21.
+
+The State justified the eviction on grounds of encroachment on public property, health hazards and criminal tendencies. It claimed there was no right to encroach pavements or erect dwellings there. 
+
+The Municipal Corporation relied on Section 314 of the Bombay Municipal Corporation Act, which allowed removal of encroachments without notice. It argued no notice was required as encroachers had no right to encroach. 
+
+The key issues were whether eviction of pavement dwellers violates their right to livelihood under Article 21 and if Section 314 authorizing eviction without notice is valid.
+
+Case History:
+The petitioners were evicted from their pavement dwellings in Bombay pursuant to a decision by the Government of Maharashtra in July 1981 to remove all pavement and slum dwellings. Some petitioners challenged this before the Bombay High Court, which granted injunction against eviction until October 15, 1981 after petitioners conceded they had no fundamental right to dwell on pavements. 
+
+When eviction resumed after October 15, fresh writ petitions were filed directly in the Supreme Court under Article 32 of the Constitution.
+
+Legal Issues/Questions Presented:
+1. Whether eviction of pavement dwellers violates their fundamental right to livelihood under Article 21 of the Constitution?
+
+2. Whether Section 314 of the Bombay Municipal Corporation Act, allowing removal of encroachments without notice, is valid?
+
+Applicable Legal Provisions:
+- Article 19(1)(e) - Right to reside and settle in any part of India
+- Article 19(1)(g) - Right to practice any profession or carry out any trade or business
+- Article 21 - Right to life and personal liberty
+- Sections 312, 313 and 314 of Bombay Municipal Corporation Act, 1888
+
+Holding(s):
+1. Right to livelihood is an integral part of the right to life under Article 21. Depriving pavement dwellers of their livelihood by evicting them violates Article 21.
+
+2. Section 314 is an enabling provision, not mandatory. The authority's discretion under it must be exercised reasonably. Eviction without notice violates principles of natural justice and is invalid.
+
+Legal Reasoning/Rationale: 
+1. The sweep of Article 21 is wide. It does not mean just protection against death, but also right to livelihood, without which life cannot be lived. Articles 39(a) and 41 also mandate right to livelihood.
+
+2. Section 314 confers discretionary power for summary eviction. But principles of natural justice require hearing the other side before adverse action. Arbitrary eviction violates right to life.
+
+Rule of Law/Legal Principle Established:
+1. Right to livelihood is part of right to life under Article 21. It can only be deprived by fair and reasonable procedure.
+
+2. Principles of natural justice apply even where statute excludes it. Authority's discretion must be exercised fairly. 
+
+Concurring and Dissenting Opinions: None
+
+Implications and Significance:
+- Expanded scope of Article 21 to include right to livelihood, requiring due process for deprivation. 
+
+- Strengthened social justice and helped protect marginalized sections from arbitrary State action.
+
+- Due process requirements cannot be circumvented by statute. Discretion must be exercised fairly.
+
+Comments/Analysis:
+- The decision reflected the Supreme Court's progressive socialist orientation at the time.
+
+- It demonstrated sensitivity to the plight of the urban poor and desire to hold State accountable.
+
+- However, the follow-up action was inadequate, highlighting gaps between high ideals and ground reality.
+
+The case was a landmark in expanding Article 21 to encompass socio-economic rights like livelihood. It set an important precedent for holding the State accountable for deprivations suffered by the poor. However, its impact in actually improving the lives of slum/pavement dwellers was limited. It highlighted the challenges in translating constitutional ideals into substantive change.

@@ -1,0 +1,80 @@
+Here is a detailed legal report on the Supreme Court case Satwant Singh Sawhney vs D. Ramarathnam, Assistant Passport Officer (1967):
+
+Case Citation:
+Satwant Singh Sawhney vs D. Ramarathnam, Assistant Passport Officer, Government of India & Ors [1967 AIR 1836, 1967 SCR (2) 525]
+
+Bench:
+K.S. Hegde, Chief Justice of India
+M. Hidayatullah, Justice
+
+R.S. Bachawat, Justice
+J.M. Shelat, Justice
+C.A. Vaidialingam, Justice
+
+Headnotes 1:
+
+Type of Case: Constitutional Law
+
+Key Decision: Right to travel abroad is part of personal liberty under Article 21. Unfettered discretion to grant/refuse passport violates Article 14.
+
+Main Issue: Whether right to travel abroad is part of personal liberty under Article 21 and if unfettered discretion to grant/refuse passport violates Article 14.
+
+Party Challenging Decision: Petitioner Satwant Singh Sawhney
+
+Key Legal Principle: Right to travel abroad is part of personal liberty under Article 21. Unfettered discretion violates Article 14.
+
+Specific Question of Law: If refusal to issue passport violates fundamental rights under Articles 14 and 21.
+
+Key Evidence: Passport is necessary to travel abroad, its refusal deprives liberty. No law restricts right to travel abroad.
+
+Headnotes 2:
+
+Constitutional Law – Right to Travel Abroad – Validity of Passport Refusal – Petitioner challenged refusal to renew passport by authorities as violation of Articles 14 and 21 – Whether right to travel abroad is part of personal liberty and unfettered discretion to refuse passport is valid.
+
+Legal Proposition:
+Petitioner Satwant Singh Sawhney was a businessman who needed to travel abroad for his import-export business. He held two valid passports that were due to expire in 1967 and 1969. In August and September 1966, the concerned passport authorities sent letters asking him to surrender both passports as the Government had decided to withdraw his passport facilities.
+
+Sawhney filed a writ petition under Article 32 alleging violation of his fundamental rights to personal liberty under Article 21 and right to equality under Article 14 due to the arbitrary withdrawal of his passport. He sought a writ of mandamus directing authorities to withdraw their decision to cancel his passport.
+
+The Government argued that no fundamental rights were violated since there is no fundamental right to a passport. Passport is a political document issued at the pleasure of the President, so its grant or refusal cannot be judicially reviewed.
+
+Case History:
+This was a original writ petition filed directly in the Supreme Court of India under Article 32 of the Constitution for violation of fundamental rights. There was no prior history of the case in lower courts.
+
+Legal Issues/Questions Presented:
+
+Whether the right to travel abroad and obtain a passport is part of the personal liberty guaranteed under Article 21 of the Constitution?
+Whether the executive's unfettered discretion in granting/refusing passports violates the right to equality under Article 14?
+Applicable Legal Provisions:
+
+Article 21 of the Constitution of India: Protection of life and personal liberty
+Article 14 of the Constitution of India: Right to equality before law
+Article 32 of the Constitution of India: Right to move Supreme Court for enforcement of fundamental rights
+Holding:
+The Court held:
+
+Right to travel abroad is part of personal liberty under Article 21. Since a passport is necessary to exercise this right, its refusal deprives liberty.
+The discretion of the executive to refuse a passport violates Article 14.
+Legal Reasoning/Rationale:
+
+On Article 21: Personal liberty in Article 21 includes rights that make up the personal liberties of man, other than those in Article 19. Right to travel abroad is part of personal liberty, though right to move freely in India is covered by Article 19(1)(d). Depriving a passport deprives the right to travel abroad.
+On Article 14: The unfettered discretion to grant/refuse passports enables discrimination between similarly situated persons. This violates equality before law under Article 14.
+Travel abroad is important for education, health, business etc. Preventing travel by refusing passport infringes liberty and equality.
+The State produced no law restricting the right to travel abroad. So refusal of passport deprived liberty contrary to procedure established by law under Article 21.
+Rule of Law/Legal Principle Established:
+
+Right to travel abroad is part of 'personal liberty' under Article 21.
+Unfettered discretion in granting/refusing passport violates Article 14.
+Concurring and Dissenting Opinions:
+Justices Hidayatullah and Bachawat dissented, holding that:
+
+Right to move freely under Article 19(1)(d) is only within India, not outside. Article 21 does not include right to travel abroad.
+Passport is a political document. The executive has discretion to grant or deny it without automatic right. Judicial review is limited to mandamus if discretion is exercised arbitrarily.
+Implications and Significance:
+
+Expanded scope of Article 21 to include right to travel abroad as part of personal liberty.
+Restricted arbitrary exercise of executive power over individual rights. Passport can no longer be denied at the absolute discretion of the executive without recourse to courts.
+Affirmed individual rights over administrative authority, strengthening constitutional liberties. Prevented absolute state control over foreign travel.
+Comments/Analysis:
+This judgment was a significantmilestone in expanding civil liberties by interpreting Article 21 broadly. It established the right to travel abroad as a fundamental right, affirming individual freedom over executive authority.
+

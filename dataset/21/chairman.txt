@@ -1,0 +1,83 @@
+Here is a detailed report on the Indian Supreme Court case The Chairman, Railway Board & Ors vs Mrs. Chandrima Das & Ors (2000):
+
+Case Citation: 
+The Chairman, Railway Board & Ors vs Mrs. Chandrima Das & Ors, AIR 2000 SC 988, 2000 (1) SCC 465
+Bench: Justice R.P.Sethi, Justice S. Saghir Ahmad
+
+Headnotes 1: 
+
+Type of Case: Constitutional Law, Public Interest Litigation 
+
+Key Decision: Supreme Court upheld the Calcutta High Court's decision to award compensation to a Bangladeshi victim of gang rape committed by railway employees. Court held that even a foreign national is entitled to protection of life and dignity under Article 21.
+
+Main Issue: Whether compensation can be awarded to a foreign national who is a victim of human rights violation by state instrumentalities. 
+
+Party Challenging Decision: Chairman, Railway Board and other railway authorities 
+
+Key Legal Principle: Right to life under Article 21 includes right to live with human dignity which is available even to foreign nationals. 
+
+Specific Question of Law: If foreign nationals are entitled to protection of life and personal liberty under Article 21 and whether they can claim compensation for human rights violations.
+
+Key Evidence: Universal Declaration of Human Rights recognizes inherent dignity and equal rights of all human beings regardless of nationality.
+
+Headnotes 2:
+
+Constitutional Law - Compensation to foreign national victim of rape by railway employees - Appellant contended compensation cannot be given under public law - Whether foreign national entitled to protection of life under Article 21 - Held Yes - Whether state vicariously liable for tortious acts of employees - Held Yes.   
+
+Legal Proposition: 
+Mrs Chandrima Das, a practising advocate of Calcutta High Court, filed a PIL seeking compensation for a Bangladeshi national who was gang raped in a room at Rail Yatri Niwas at Howrah railway station by railway employees. The petition also sought measures to stop criminal activities at Howrah station. 
+
+Case History:
+Smt. Hanuffa Khatoon, a Bangladeshi national, arrived at Howrah station on 26 February 1998 to board a train to Ajmer. She was approached by two men, Ashoke Singh and Siyaram Singh, who were a railway tout and ticket broker respectively. They got her ticket confirmed and later in the evening, took her to Rail Yatri Niwas on the pretext of providing food and accommodation. At Yatri Niwas, she was taken to a room where four men including railway employees raped her. She managed to escape and returned to the platform but was again taken by Siyaram to a friend's place where she was again sexually assaulted. She was finally rescued by police and a case was registered. 
+
+The Calcutta High Court allowed the petition filed by Chandrima Das and awarded compensation of Rs. 10 lakhs to the victim. 
+
+The Chairman, Railway Board and other railway authorities appealed to the Supreme Court against this decision.
+
+Legal Issues/Questions Presented:
+1. Whether a petition under Article 226 can be maintained by a third party seeking compensation for a foreign national victim of crime committed by state instrumentalities? 
+
+2. Whether a foreign national is entitled to the protection of life and personal liberty under Article 21 of the Constitution?
+
+3. Whether the state is vicariously liable to pay compensation for crimes like rape committed by state employees?
+
+Applicable Legal Provisions:
+- Article 226 of Constitution of India: Power of High Courts to issue writs
+- Article 21 of Constitution of India: Right to life and personal liberty 
+- Universal Declaration of Human Rights, 1948
+
+Holding(s):
+1. A third party petition under Article 226 in public interest is maintainable. Locus standi requirements in PIL are relaxed.
+
+2. Right to life under Article 21 is available not just to citizens but even to foreign nationals. It includes the right to live with dignity.
+
+3. The State is vicariously liable for tortious acts of its employees under public law. Rape can never be a part of official duties.
+
+Legal Reasoning/Rationale:
+- Petitioner, being a practicing advocate, has a special interest in upholding rights. As a public interest litigation, the petition is maintainable. 
+
+- Article 21 has been interpreted to mean right to live with dignity and encompasses rights in Universal Declaration of Human Rights. It uses the word 'life' and 'person' and is available to foreign nationals.
+
+- Running railways is a commercial activity of the government. Employees involved are not exercising sovereign powers. The rule in Kasturilal case that state is not liable for torts of employees acting in sovereign capacity is not applicable. 
+
+Rule of Law/Legal Principle Established or Applied:
+
+1. Locus standi requirements are relaxed in cases of public interest litigation. 
+
+2. Right to life and personal liberty guaranteed under Article 21 is available not just to citizens but even to foreign nationals.
+
+3. The State is vicariously liable under public law for tortious acts of its employees even when such acts are not in exercise of sovereign powers.
+
+Concurring and/or Dissenting Opinions: None
+
+Implications and Significance:
+- Expands the scope of public interest litigation and locus standi of third parties.
+
+- Extends the protection of Article 21 to foreign nationals present in India. 
+
+- Holds state liable to compensate even foreign nationals for human rights violations by state instrumentalities. 
+
+- Lays down that employees of PSUs or state undertakings acting in non-sovereign capacity can make the state vicariously liable under public law for their tortious acts.
+
+Comments or Analysis:
+The case is significant for extending the rights guaranteed under Article 21 to foreign nationals by relying on India's commitment to uphold human rights as per international covenants. It rejects the outdated concept of sovereignty immunity in the modern welfare state. The court adopted a progressive approach considering the trans-national nature of human rights. This will have a bearing on access to justice delivery for foreign victims of crimes and human rights violations in India.
