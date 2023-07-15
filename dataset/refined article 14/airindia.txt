@@ -1,0 +1,110 @@
+Here is a detailed legal report on the case Air India v. Nergesh Meerza:
+
+Case Citation:  
+Air India Etc. Etc vs Nergesh Meerza & Ors. Etc. Etc, (1981) 4 SCC 335, Supreme Court of India
+
+Bench: Justice Fazal Ali, Justice Syed Murtaza and Justice A. Varadarajan  
+
+Headnotes 1:
+
+Type of Case: Constitutional Law, Service Law 
+
+Key Decision: Certain provisions in Air India and Indian Airlines' service regulations pertaining to retirement age and termination of air hostesses held unconstitutional.
+
+Main Issue: Validity of provisions mandating early retirement age and termination of service of air hostesses in Air India and Indian Airlines service regulations.  
+
+Party Challenging Decision: Air hostesses of Air India and Indian Airlines
+
+Key Legal Principle: Provisions resulting in hostile discrimination without reasonable classification violate right to equality under Article 14.
+
+Specific Question of Law: Whether provisions mandating early retirement age and termination of air hostesses are unconstitutional. 
+
+Key Evidence: No evidence showing early retirement age and termination had reasonable nexus with efficiency or were non-arbitrary.
+
+Headnotes 2: 
+
+Constitutional Law - Service conditions of air hostesses - Impugned provisions mandating early retirement and termination of air hostesses challenged - Whether provisions violate right to equality under Article 14.
+
+Legal Proposition:
+
+The case involved a challenge by air hostesses of Air India and Indian Airlines to certain service regulations governing them. 
+
+The key provisions challenged were:
+
+1. Minimum retirement age of 35 years for air hostesses compared to 58 for male cabin crew.
+
+2. Termination of service on first pregnancy. 
+
+3. Termination if air hostess married within 4 years of service.
+
+4. Extension of service of air hostess beyond 35 years at complete discretion of Managing Director without any guidelines.
+
+The petitioners contended these provisions were unconstitutional as they were manifestly arbitrary, unreasonable and violated the right to equality under Article 14. 
+
+Case History: 
+
+The case arose from a writ petition filed directly in the Supreme Court under Article 32 of the Constitution. Several similar writ petitions filed by air hostesses of both Air India and Indian Airlines challenging service conditions were clubbed together. 
+
+The service conditions of air hostesses had been previously adjudicated upon in two prior Industrial Tribunal Awards - the Khosla and Mahesh Awards. However, petitioners argued that did not preclude fresh challenge on grounds of violation of fundamental rights.
+
+Legal Issues/Questions Presented: 
+
+1. Whether the service conditions imposed only on air hostesses amount to hostile discrimination based only on sex?
+
+2. Whether the provisions mandating early retirement age, termination on first pregnancy and marriage within 4 years are manifestly arbitrary and violative of Article 14?
+
+3. Whether the wide discretion conferred on Managing Director to extend service of air hostesses beyond 35 years is excessive delegation of power violating Article 14?
+
+Applicable Legal Provisions:
+
+1. Articles 14, 15, 16 - Right to Equality 
+
+2. Clause (2) and Clause (4) of Article 16
+
+3. Air India Employees' Service Regulations, 1946 
+
+4. Indian Airlines (Flying Crew) Service Regulations
+
+Holding(s): 
+
+1. Air hostesses constitute a separate class than other cabin crew given different mode of recruitment, service conditions etc. Thus no violation of right to equality by different treatment.
+
+2. Provisions mandating termination on first pregnancy and at discretion of Managing Director are unconstitutional and manifestly arbitrary. Struck down. 
+
+3. Provision barring marriage within 4 years does not violate Article 14 given circumstances and is reasonable. Upheld. 
+
+4. Retirement age of 35 years also does not violate Article 14 given separate classification of air hostesses. Upheld. 
+
+Legal Reasoning/Rationale: 
+
+1. Article 14 prohibits hostile discrimination, not reasonable classification based on intelligible differentia having nexus with object sought to be achieved. 
+
+2. Based on mode of recruitment, qualifications, promotional avenues, retirement benefits etc, air hostesses constituted a separate class than other cabin crew. Thus different treatment did not amount to discrimination. 
+
+3. However, provisions mandating termination on pregnancy and at absolute discretion of Managing Director were manifestly arbitrary and excessive delegation of power hence violated Article 14.
+
+4. Provision barring marriage within 4 years held to be reasonable restriction in public interest and in line with family planning policies. 
+
+5. Retirement age of 35 years upheld given satisfactory material produced justifying it on grounds of arduous nature of duties. But discretion of extension conferred arbitrary power.  
+
+Rule of Law/Legal Principle Established:
+
+1. To determine whether discrimination violative of Article 14 exists, need to examine whether separate classification of persons/posts exists based on intelligible differentia having nexus with object sought to be achieved.
+
+2. Even if no violation of Article 14 based on separate classification, a provision can be struck down as manifestly arbitrary/unreasonable under Article 14.
+
+Concurring and Dissenting Opinions: None. Unanimous decision. 
+
+Implications and Significance:
+
+1. Laid down detailed guidelines to determine when hostile discrimination violative of Article 14 exists.
+
+2. Service conditions of air hostesses improved by removing manifestly arbitrary provisions. 
+
+3. Confirmed separate classification for air hostesses is valid based on intelligible differentia.
+
+4. Managing Director's discretionary powers over service conditions substantially curtailed within bounds of Article 14.
+
+Comments/Analysis: 
+
+The decision is commendable in striking down manifestly arbitrary provisions governing air hostesses while also recognizing their separate status. It balances their special status and duties with the need to remove unreasonable restrictions on marriage and parenthood violating dignity and equality. The curtailment of excessive discretionary powers is significant in upholding rule of law and limiting arbitrary State action. The judgment could have discussed the policy rationale behind restrictions better. Overall, it enhances equality while identifying reasonable occupational classifications.

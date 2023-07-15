@@ -1,0 +1,96 @@
+Here is a detailed report on the case Miss Lena Khan vs Union of India & Ors:
+
+Case Citation: Miss Lena Khan vs Union Of India & Ors, 1987 AIR 1515, 1987 SCR (2) 727
+
+Headnotes 1: 
+
+Type of Case: Constitutional Law
+Key Decision: Upholds validity of different retirement ages for air hostesses of Indian origin vs foreign origin  
+Main Issue: Validity of different retirement ages under right to equality under Articles 14 and 15
+Party Challenging Decision: Indian air hostess appellant 
+Key Legal Principle: Retirement age difference justified based on fortuitous circumstances of complying with foreign laws 
+Specific Question of Law: If different retirement ages violate right to equality under Articles 14 and 15
+Key Evidence: Air India phasing out foreign air hostesses to restore uniformity  
+
+Headnotes 2:  
+
+Constitutional Law – Retirement age of air hostesses – Validity – Appellant Indian air hostess challenged forced retirement at age 45 while foreign air hostesses retire later – Whether retirement age difference violates right to equality.
+
+Legal Proposition: 
+
+The petitioner Miss Lena Khan, a Deputy Chief Air Hostess employed by Air India, filed a writ petition under Article 32 alleging violation of Articles 14 and 15 due to different retirement ages for air hostesses of Indian origin (35 years with extension till 45 years) versus air hostesses of foreign origin who can work beyond 45 years. She sought to quash her retirement letter, declare the retirement regulation 46(1)(c) ultra vires, direct reconsideration of the Supreme Court judgment in Nargesh Meerza case on the same issue, and let her retire at 58 years.
+
+Case History:
+
+The petitioner filed the writ petition directly to the Supreme Court under Article 32 alleging violation of fundamental rights under Articles 14 and 15. Previous writ petitions on the same issue of retirement age difference were decided by a Constitutional Bench of the Supreme Court in Air India v. Nargesh Meerza in 1982 which upheld the validity of different retirement ages.
+
+Legal Issues/Questions Presented:
+
+1. Whether the difference in retirement age for air hostesses of Indian origin versus foreign origin violates the right to equality under Articles 14 and 15 of the Constitution?
+
+2. Whether Air India can justify the difference based on complying with foreign laws? 
+
+3. Whether the petitioner belongs to a separate class from other air hostesses?
+
+Applicable Legal Provisions:
+
+- Article 14 of the Constitution of India (Right to Equality)
+- Article 15 of the Constitution of India (Prohibition of Discrimination)
+- Regulation 46(1)(c) of Air India Service Regulations (Retirement Age)
+- Section 6(4) of UK Sex Discrimination Act, 1975 (Retirement Age Exemption)
+
+Holding:  
+
+The Supreme Court dismissed the writ petition and upheld the validity of different retirement ages.
+
+Legal Reasoning/Rationale:
+
+- The issue of retirement age difference was already decided in the previous Nargesh Meerza case which is binding. 
+
+- Air India policy is to phase out foreign air hostesses to restore uniformity in retirement age. Only 6 air hostesses left in UK with senior most being 41 years old. 
+
+- Air India needs foreign air hostesses for language skills to deal with foreign passengers. Their service conditions are different without promotion avenues.
+
+- The retirement age difference is due to complying with local UK laws which Air India cannot violate or commit an offence. 
+
+- Section 6(4) of UK Act permits different retirement ages. So uniformity can be restored.
+
+- Petitioner's duties as Deputy Chief Air Hostess are same as air hostess, so she does not belong to a separate class.
+
+- Previous decision already rejected claim of separate class for Deputy Chief Air Hostess.
+
+Rule of Law/Legal Principle Established or Applied:
+
+- Difference in laws or service conditions of employees situated in different countries can justify difference in retirement ages, provided there is no arbitrariness or unreasonableness. 
+
+- Binding precedents cannot be easily reconsidered or overturned, needs strong grounds.
+
+Concurring and/or Dissenting Opinions:
+
+Justice Oza concurred with the decision of Justice Khalid but gave additional concurring reasons:
+
+- Air India as an instrumentality of the State cannot discriminate against Indian air hostesses by following foreign airlines' discriminatory practices. 
+
+- Need to comply with foreign laws cannot justify violating Article 14. 
+
+- Based on clarification of Section 6(4) of UK Act, Air India will ensure uniform retirement age.
+
+Implications and Significance:
+
+- Upholds Air India's policy of phasing out foreign air hostesses to ensure uniform retirement age.
+
+- Establishes that foreign laws may justify differential treatment to avoid violation, provided it is reasonable and non-arbitrary.
+
+- Binding precedents will not be easily reconsidered or overturned without strong grounds. 
+
+- Public sector undertakings need to follow Indian laws and Constitution while operating abroad.
+
+Comments/Analysis: 
+
+- The case demonstrates the complexities of public sector units operating internationally having to balance compliance with foreign laws vs adherence to the Indian Constitution.
+
+- The concurring opinion rightly holds Air India to higher standard as an instrumentality of state in following constitutional principles over discriminatory foreign practices. 
+
+- The case reflects broader trend of reviewing policies of public sector enterprises to ensure conformity with constitutional equality principles.
+
+In summary, this was an important constitutional law case where the Court upheld validity of different retirement ages for operational reasons but ensured discriminatory policies would be phased out. The decision reinforces commitment to constitutional morality for State enterprises.
