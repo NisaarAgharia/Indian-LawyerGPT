@@ -1,0 +1,91 @@
+You are Lawyer GPT, A Top Quality Lawyer in Indian Law.
+Your skills are : 
+1. Legal Expertise: Possesses strong knowledge of constitutional law and can interpret complex legal principles.
+2. Research and Analysis: Excels in conducting thorough legal research and in-depth case analysis.
+3. Communication and Negotiation: Demonstrates excellent communication and successful negotiation skills.
+4. Client Advocacy: Proficient in representing and defending client interests in courts and tribunals.
+5. Client Relationship Management: Skilled in maintaining effective communication and ensuring client satisfaction.
+
+However, it's essential to underline the importance of providing accurate information. Rather than inventing or fabricating data, it is more respectable and credible to admit "I don't know" if you are unsure about the correct information.
+
+I will Provide you with a court case from Indian law ,Think like a lawyer , think step by step :
+
+Headnotes:
+
+- The case revolves around the imposition of customs duty and auxiliary duty on imported newsprint by the Indian government.
+- The petitioners, Indian Express Newspapers (Bombay) Private Ltd. and others, challenged the imposition of these duties on the grounds that it violated their freedom of speech and expression guaranteed under Article 19(1)(a) of the Indian Constitution.
+- The Union of India, the respondent in the case, argued that the imposition of duties was in the public interest to augment government revenue.
+- The court recognized that freedom of the press is an essential component of freedom of speech and expression and held that any interference with the content and circulation of newspapers would be a violation of this freedom.
+- The court ruled in favor of the petitioners and struck down the imposition of customs duty and auxiliary duty on newsprint.
+
+Case Citation: Indian Express Newspapers (Bombay) Private Ltd. & Ors. vs Union of India & Ors., 1986 AIR 515 and 1985 SCR (2) 287, Supreme Court of India, December 6, 1984, Bench: Justice E.S. Venkataramiah, Justice O. Chinnappa Reddy, and Justice A.P. Sen.
+
+Legal proposition: The imposition of customs duty and auxiliary duty on imported newsprint violates the freedom of speech and expression guaranteed under Article 19(1)(a) of the Indian Constitution.
+
+Case History: The case was initially filed by Indian Express Newspapers (Bombay) Private Ltd. and others challenging the imposition of customs duty and auxiliary duty on imported newsprint. The case was heard in the Supreme Court of India.
+
+Legal Issues/Questions Presented:
+1. Whether the imposition of customs duty and auxiliary duty on newsprint violates the freedom of speech and expression guaranteed under Article 19(1)(a) of the Indian Constitution.
+2. Whether the method of determining the rate of import duty exposes newspaper publishers to executive interference.
+3. Whether the classification of newspapers for the levy of import duty is discriminatory.
+
+Applicable Legal Provisions:
+- Article 19(1)(a) of the Indian Constitution guarantees the freedom of speech and expression.
+- Section 25 of the Customs Act, 1962 provides the power to the Central Government to grant exemptions from the payment of customs duty.
+
+Holding(s): The court ruled in favor of the petitioners and struck down the imposition of customs duty and auxiliary duty on newsprint. The court held that the duties imposed an excessive burden on the newspaper industry and violated the freedom of speech and expression.
+
+Legal Reasoning/Rationale: The court recognized that freedom of the press is an essential component of freedom of speech and expression. It held that any interference with the content and circulation of newspapers would be a violation of this freedom. The court also noted that newspapers play a crucial role in advancing the public interest by publishing facts and opinions necessary for a democratic electorate to make responsible judgments.
+
+The court further held that while the government has the power to levy taxes, the imposition of taxes should not impede the freedom of expression. It emphasized that the court's role is to uphold the freedom of the press and invalidate any laws or actions that interfere with it unconstitutionally.
+
+Rule of Law/Legal Principle Established or Applied: The court established that the imposition of customs duty and auxiliary duty on newsprint violates the freedom of speech and expression guaranteed under Article 19(1)(a) of the Indian Constitution.
+
+Concurring and/or Dissenting Opinions: No concurring or dissenting opinions were provided in the available information.
+
+Implications and Significance: The court's ruling in this case reaffirms the importance of freedom of the press as a fundamental right. It sets a precedent for future cases involving the imposition of taxes or duties on the newspaper industry, emphasizing the need to balance the government's power to levy taxes with the protection of the freedom of the press.
+
+Comments or Analysis: This case highlights the crucial role of newspapers in a democratic society and the need to protect their freedom of speech and expression. The court's decision to strike down the imposition of customs duty and auxiliary duty on newsprint ensures that the newspaper industry can continue to fulfill its role in advancing the public interest and promoting informed decision-making. The ruling also emphasizes the court's role in upholding constitutional rights and invalidating any laws or actions that interfere with those rights.
+
+Additional Context:
+
+The additional context provided in the case reveals that the government had previously granted exemptions from the payment of customs duty on newsprint, indicating that the levy was likely to have a serious impact on the newspaper industry. The court acknowledged that while it was not possible to conclusively establish the burden imposed by the levy, there were indications that it could affect the circulation of newspapers and, therefore, the freedom of the press. As a result, the court directed the Central Government to reconsider the matter and determine the extent of exemption that should be granted in light of the impact on the newspaper industry and the freedom of the press.
+
+The court also addressed the argument that the classification of newspapers for the levy of import duty was discriminatory. It rejected this contention, stating that the objective of assisting small and medium newspapers in reducing their production costs was not sinister and had a nexus with the object to be achieved. The court emphasized the duty of the state to encourage education of the masses through the medium of the press and rejected the challenge to the classification.
+
+In terms of relief, the court held that quashing the impugned notifications would not revive the previous notification that granted total exemption from customs duty. Instead, the court directed the government to reconsider the liability of the petitioners and others and recover only a reduced amount of customs duty and auxiliary duty until the matter was redetermined. The court also allowed for the possibility of refunds if it was found that the petitioners were entitled to them.
+
+Overall, this case provides a comprehensive understanding of the legal issues, reasoning, and implications of the court's decision to strike down the imposition of customs duty and auxiliary duty on newsprint. It highlights the importance of protecting the freedom of the press and ensuring that government actions do not unduly burden the newspaper industry or impede the dissemination of information.
+
+
+i will give you batches of 5 tasks to perform on the case : Answers should be detailed and have important information, 
+
+Give me answer in this format as i am making dataset for instruct tuning Large Language Model:
+  {
+        "instruction": "Write a function that takes in a list of numbers and returns a list of the numbers in reverse order.",
+        "input": "",
+        "output": "\"\"\"\nFunction to reverse a list of numbers\n\"\"\"\n\ndef reverse_list(input_list):\n    reverse_list = input_list.copy()\n    reverse_list.reverse()\n    return reverse_list\n\nif __name__ == '__main__':\n    l = [1, 2, 3, 4, 5]\n    print(reverse_list(l))\n    # Output: [5, 4, 3, 2, 1]"
+    },
+    {
+        "instruction": "Classify the following text as 'subjective' or 'objective'",
+        "input": "The Samsung Galaxy S20 is an incredible phone.",
+        "output": "Subjective."
+    },
+
+Make sure you fill all the fields / the instruction/input/output should be high quality and very detailed 
+Below is an instruction that describes a task, paired with an input that provides further context , write output that appropriately completes the request.
+  {
+        "instruction": "Mandatory'",(Instruction of the type of the legal Task)
+        "input": "Optional",(User question or any type of user Input)
+        "output": "Mandatory."(Accurate answer)
+    },
+
+the output should be high quality and very detailed and justify yourself
+Legal Tasks : 
+98. Discuss the potential implications of the given case for Indian maritime law.
+99. Analyze the potential influence of the given case on the practice of arbitration in India.
+100. Draft a legal opinion on how the decision in the provided case might affect privacy laws in India.
+101. Discuss the impact of the given case on the regulation of Non-Governmental Organizations in India.
+102. Evaluate the potential implications of the provided case on the Indian Competition Act.
+
+Give me the output in single jsonl format
