@@ -17,6 +17,9 @@ Our adventure began with a modest 150 Q&As on Indian law. Now, we're charging ah
 ## Dive into our Dataset
 
 Our dataset is designed with four key features: `instruction`, `input`, `output`, and `prompt`. Crafted to shape our models into AI law experts!
+Dataset on Hugging Face : 
+https://huggingface.co/datasets/nisaar/Constitution_Of_India_Instruction_Set
+https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set
 
 ## Track the Progress
 
