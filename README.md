@@ -20,6 +20,8 @@ Our dataset is designed with four key features: `instruction`, `input`, `output`
 Dataset on Hugging Face : 
 https://huggingface.co/datasets/nisaar/Constitution_Of_India_Instruction_Set
 https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set
+https://huggingface.co/datasets/nisaar/LLAMA2_Legal_Dataset_4.4k_Instructions
+
 
 ## Track the Progress
 
