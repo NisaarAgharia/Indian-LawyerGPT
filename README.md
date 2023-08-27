@@ -11,7 +11,8 @@ Our adventure began with a modest 150 Q&As on Indian law. Now, we're charging ah
 - **[Our Dataset](https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set)**: Comprehensive Indian law knowledge, spanning constitutional law, civil rights, and more!
 
 ## Dataset Creation
-<img width="2400" alt="Dataset Creation" src="https://github.com/NisaarAgharia/Indian-LawyerGPT/assets/22457544/5202e0e7-16f2-419f-bd34-9c914cc28f57">
+<img width="2624" alt="Dataset Creation (3)" src="https://github.com/NisaarAgharia/Indian-LawyerGPT/assets/22457544/75d1b1a6-d467-4b94-b0b6-c09dde758a86">
+
 
 
 ## Dive into our Dataset
