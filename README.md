@@ -10,9 +10,9 @@ Our adventure began with a modest 150 Q&As on Indian law. Now, we're charging ah
 - **PEFT & QLoRA**: The dream duo for memory-efficient and high-performance model fine-tuning.
 - **[Our Dataset](https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set)**: Comprehensive Indian law knowledge, spanning constitutional law, civil rights, and more!
 
-![Training Snapshot](https://github.com/NisaarAgharia/Fine-Tuning-Falcon-7B-LLM-Model/assets/22457544/60f1a52d-6e30-42b2-a0dd-d264ab97b97d)
+## Dataset Creation
+<img width="2400" alt="Dataset Creation" src="https://github.com/NisaarAgharia/Indian-LawyerGPT/assets/22457544/5202e0e7-16f2-419f-bd34-9c914cc28f57">
 
-![Project Screenshot](https://github.com/NisaarAgharia/Fine-Tuning-Falcon-7B-LLM-Model/assets/22457544/ff584f7f-9961-48d4-8cb5-8f674563e163)
 
 ## Dive into our Dataset
 
