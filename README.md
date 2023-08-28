@@ -23,6 +23,9 @@ https://huggingface.co/datasets/nisaar/Constitution_Of_India_Instruction_Set
 https://huggingface.co/datasets/nisaar/Articles_Constitution_3300_Instruction_Set
 https://huggingface.co/datasets/nisaar/LLAMA2_Legal_Dataset_4.4k_Instructions
 
+## Fine Tuning Process
+<img width="2608" alt="Fine Tuning" src="https://github.com/NisaarAgharia/Indian-LawyerGPT/assets/22457544/d08c4d51-0e5e-4cff-9fec-7d7a53959143">
+
 
 ## Track the Progress
 
